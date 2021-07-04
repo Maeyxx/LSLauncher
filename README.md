@@ -1,7 +1,7 @@
 # LSLauncher
  Game launcher for GTA RP LS5 game server
 _____________________________________________
-FRAMEWORK.NET V7.4.2
+FRAMEWORK.NET V4.7.2
 _____________________________________________
 
 The current version is only a preview that aims to be improved.
