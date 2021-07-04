@@ -1,0 +1,16 @@
+C:\Users\roman\Desktop\LSLauncher\LSLauncher\bin\Debug\LSLauncher.exe.config
+C:\Users\roman\Desktop\LSLauncher\LSLauncher\bin\Debug\LSLauncher.exe
+C:\Users\roman\Desktop\LSLauncher\LSLauncher\bin\Debug\LSLauncher.pdb
+C:\Users\roman\Desktop\LSLauncher\LSLauncher\obj\Debug\LSLauncher.mainLauncher.resources
+C:\Users\roman\Desktop\LSLauncher\LSLauncher\obj\Debug\LSLauncher.Properties.Resources.resources
+C:\Users\roman\Desktop\LSLauncher\LSLauncher\obj\Debug\LSLauncher.csproj.GenerateResource.cache
+C:\Users\roman\Desktop\LSLauncher\LSLauncher\obj\Debug\LSLauncher.csproj.CoreCompileInputs.cache
+C:\Users\roman\Desktop\LSLauncher\LSLauncher\obj\Debug\LSLauncher.exe
+C:\Users\roman\Desktop\LSLauncher\LSLauncher\obj\Debug\LSLauncher.pdb
+C:\Users\roman\Desktop\LSLauncher\LSLauncher\obj\Debug\LSLauncher.settingsLauncher.resources
+C:\Users\roman\Desktop\LSLauncher\LSLauncher\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\roman\Desktop\LSLauncher\LSLauncher\bin\Debug\System.ValueTuple.dll
+C:\Users\roman\Desktop\LSLauncher\LSLauncher\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\roman\Desktop\LSLauncher\LSLauncher\obj\Debug\LSLauncher.csproj.CopyComplete
+C:\Users\roman\Desktop\LSLauncher\LSLauncher\obj\Debug\LSLauncher.csprojAssemblyReference.cache
+C:\Users\roman\Desktop\LSLauncher\LSLauncher\obj\Debug\LSLauncher.LauncherSelectingPath.resources
